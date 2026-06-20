@@ -1,6 +1,6 @@
 # dataverse-ts-utils
 
-[![CI](https://github.com/<your-username>/dataverse-ts-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/dataverse-ts-utils/actions/workflows/ci.yml)
+[![CI](https://github.com/dataverse-ts-utils/dataverse-ts-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/dataverse-ts-utils/dataverse-ts-utils/actions/workflows/ci.yml)
 
 Common TypeScript utility methods for Dataverse client-side scripting (forms, ribbon) and PCF development. Wraps `Xrm.WebApi` and form-context patterns you'd otherwise rewrite in every project.
 
