@@ -1,6 +1,6 @@
 {
   "name": "dataverse-ts-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Common TypeScript utility methods for Microsoft Dataverse client-side scripting and PCF development",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
